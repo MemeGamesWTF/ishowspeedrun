@@ -1,9 +1,9 @@
 const cacheName = "memegames-ishowspeed-1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js",
-    "Build/Build.data",
-    "Build/Build.wasm",
+    "Build/ishowspeedrun.loader.js",
+    "Build/ishowspeedrun.framework.js",
+    "Build/ishowspeedrun.data",
+    "Build/ishowspeedrun.wasm",
     "TemplateData/style.css"
 
 ];
